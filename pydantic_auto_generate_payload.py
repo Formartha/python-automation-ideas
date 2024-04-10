@@ -1,13 +1,6 @@
 from pydantic import BaseModel
 from typing import Optional
 from faker import Faker
-
-fake = Faker()
-
-
-from pydantic import BaseModel
-from typing import Optional
-from faker import Faker
 from typing import get_type_hints
 
 fake = Faker()
